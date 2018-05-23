@@ -1,5 +1,6 @@
 # Ethernetics
-The first and general repo of the Ethernetics New Network Builders Founded in April 2018
+The first and general repo of the Ethernetics New Network Builders. 
+Founded in April 2018
 
 ## Strategy
 [leads](https://drive.google.com/open?id=1YQoYS3Qjtalgns0vOJBqNgfTvmn-aiuw8FcVmndhD4g)
